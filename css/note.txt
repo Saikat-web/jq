@@ -1,0 +1,27 @@
+function showDate(){
+       statement;
+}
+
+
+function types:
+       custom
+       pre
+
+Selector
+       getElementById()
+
+Operator
+       +
+       -
+       *
+       /
+       %
+       .
+       = Assignment Operator
+Output
+       innerHTML
+
+Event
+       onclick
+
+Data types
